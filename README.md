@@ -6,7 +6,7 @@ Cy-Truck est un outil gérant l’ensemble de la logistique d’une société na
 
 Une fois lancé, le programme guide l'utilisateur quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
 
-Le programme permet de trier les données de data.csv afin de créer des graphiques via **Gnuplot** pour faciliter l'analyse des données.
+Le programme permet de trier les données de data.csv afin de créer des graphiques via **GnuPlot** pour faciliter l'analyse des données.
 
 ## Compatibilité système
 
@@ -16,7 +16,7 @@ Le programme est compatible avec les dernières versions de **Ubuntu**.
 
 - Langage de programmation : `C`, `Bash UNIX`
 - Type de programmation : **modulaire**
-- Logiciel utilisé : **Visual Studio Code**, **Gnuplot**
+- Logiciel utilisé : **Visual Studio Code**, **GnuPlot**
 
 ## Lancement
 
