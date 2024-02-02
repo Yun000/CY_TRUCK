@@ -1,4 +1,4 @@
-``# ***CY-Truck _ COBB Leo - MEDDOUR Bissem - SMAIL Yuness***
+# ***CY-Truck _ COBB Leo - MEDDOUR Bissem - SMAIL Yuness***
 
 ## Magasin informatique
 
@@ -29,4 +29,4 @@ Executer la commande <code>bash CYTruck.sh data/data.csv -h</code> pour decouvri
 
 * Il faut lire les differentes inscriptions du programme et les respecter.
 * Si une liste de chiffres est proposée, pour choisir il faut entrer le chiffre qui correspond à son choix.
-``
+
