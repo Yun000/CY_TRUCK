@@ -2,7 +2,9 @@
 
 ## Outils Informatique de logistique
 
-Cy-Truck est un outil gérant l’ensemble de la logistique d’une société nationale de transport routier. En incluant le fichier data.csv dans le répertoire qui lui est attribué, on peut donc récupérer les données nécessaires. Une fois lancé, le programme nous guide quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
+Cy-Truck est un outil gérant l’ensemble de la logistique d’une société nationale de transport routier. En incluant le fichier data.csv dans le répertoire qui lui est attribué, on peut donc récupérer les données nécessaires.
+
+Une fois lancé, le programme nous guide quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
 
 Le programme permet de trier les données de data.csv afin de créer des graphiques via **Gnuplot** pour faciliter l'analyse des données.
 
