@@ -1,10 +1,10 @@
 # **CY-Truck _ COBB Leo - MEDDOUR Bissem - SMAIL Yuness**
 
-## Outils Informatique de logistique
+## Outil Informatique de logistique
 
-Cy-Truck est un outil gérant l’ensemble de la logistique d’une société nationale de transport routier. En incluant le fichier data.csv dans le répertoire qui lui est attribué, on peut donc récupérer les données nécessaires.
+Cy-Truck est un outil gérant l’ensemble de la logistique d’une société nationale de transport routier. En incluant le fichier data.csv dans le répertoire qui lui est attribué, on peut récupérer les données nécessaires.
 
-Une fois lancé, le programme nous guide quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
+Une fois lancé, le programme guide l'utilisateur quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
 
 Le programme permet de trier les données de data.csv afin de créer des graphiques via **Gnuplot** pour faciliter l'analyse des données.
 
@@ -20,13 +20,13 @@ Le programme est compatible avec les dernières versions de **Ubuntu**.
 
 ## Lancement
 
-Afin d'utiliser le programme, veuillez ouvrir un terminal dans le dossier `CYTruck/`, assurez-vous que data.csv soit dans le répertoire CYTruck/data. Exécutez la commande `bash CYTruck.sh data/data.csv -h` pour découvrir les différents traitements disponibles.
+Pour utiliser le programme, ouvrez un terminal dans le dossier `CYTruck/`, assurez-vous que data.csv soit dans le répertoire CYTruck/data. Exécutez la commande `bash CYTruck.sh data/data.csv -h` pour découvrir les différents traitements disponibles.
 
 ## Téléchargement
 
-- Téléchargez `./CYTruck` et extrayez le fichier. Le fichier data.csv etant trop gros pour Github, n'oubliez pas de l'ajouter dans le répertoire assigné.
+- Téléchargez `./CYTruck` et extrayez le fichier. Le fichier data.csv étant trop gros pour Github, n'oubliez pas de l'ajouter dans le répertoire assigné.
 
 # Règles
 
-- Pour executer un traitement particulier il faut utiliser la commande `bash CYTruck.sh data/data.csv'                  suivi de -nomtraitement
-  ---->_ex : Pour le traitement t on utilse la commande `bash CYTruck.sh data/data.csv -t`
+- Pour exécuter un traitement particulier, utilisez la commande `bash CYTruck.sh data/data.csv -nomtraitement`.
+  - Exemple : Pour le traitement t, utilisez la commande `bash CYTruck.sh data/data.csv -t`.
