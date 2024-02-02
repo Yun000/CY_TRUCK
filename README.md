@@ -1,6 +1,6 @@
 # **CY-Truck _ COBB Leo - MEDDOUR Bissem - SMAIL Yuness**
 
-## Magasin informatique
+## Outils Informatique de logistique
 
 Cy-Truck est un outil gérant l’ensemble de la logistique d’une société nationale de transport routier. En incluant le fichier data.csv dans le répertoire qui lui est attribué, on peut donc récupérer les données nécessaires. Une fois lancé, le programme nous guide quant à son utilisation, mais vous avez toujours la rubrique **Lancement** pour vous aider.
 
@@ -22,7 +22,7 @@ Afin d'utiliser le programme, veuillez ouvrir un terminal dans le dossier `CYTru
 
 ## Téléchargement
 
-- Téléchargez `./CY-Truck` et extrayez le fichier. Le fichier data.csv est trop gros pour Github, n'oubliez pas de l'ajouter dans le répertoire assigné.
+- Téléchargez `./CYTruck` et extrayez le fichier. Le fichier data.csv etant trop gros pour Github, n'oubliez pas de l'ajouter dans le répertoire assigné.
 
 # Règles
 
