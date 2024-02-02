@@ -30,3 +30,5 @@ Pour utiliser le programme, ouvrez un terminal dans le dossier `CYTruck/`, assur
 
 - Pour exécuter un traitement particulier, utilisez la commande `bash CYTruck.sh data/data.csv -nomtraitement`.
   - Exemple : Pour le traitement t, utilisez la commande `bash CYTruck.sh data/data.csv -t`.
+ 
+- Il est impératif que le fichier data.csv soit rangé dans le repartoire /data pour le bon fonctionnement du programme.
