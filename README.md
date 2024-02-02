@@ -28,5 +28,5 @@ Afin d'utiliser le programme, veuillez ouvrir un terminal dans le dossier `CYTru
 
 # Règles
 
-- Il faut lire les différentes inscriptions du programme et les respecter.
-- Si une liste de chiffres est proposée, pour choisir, il faut entrer le chiffre qui correspond à son choix.
+- Pour executer un traitement particulier il faut utiliser la commande `bash CYTruck.sh data/data.csv'                  suivi de -nomtraitement
+  ---->_ex : Pour le traitement t on utilse la commande `bash CYTruck.sh data/data.csv -t`
